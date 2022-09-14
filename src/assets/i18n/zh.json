@@ -1,0 +1,16 @@
+{
+	"login": {
+		"title": "登录的形式",
+		"username.label": "用户名",
+		"username.placeholder": "用户名在这里",
+		"password.label": "密码",
+		"password.placeholder": "输入密码",
+		"button.name": "签到",
+		"forgotpassword.link": "忘了密码?",
+		"register.link": "创建新帐户",
+		"button.en": "英语",
+		"button.ta": "泰米尔人",
+		"button.fr": "法国",
+		"button.zh": "中文"
+	}
+}

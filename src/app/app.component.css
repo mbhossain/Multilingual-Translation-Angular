@@ -1,0 +1,15 @@
+p {
+    font-family: Lato;
+}
+
+.btn-default {
+    direction: rtl;
+}
+
+.btn-change {
+    direction: ltr;
+}
+
+.button {
+    margin-right: 10px;
+}
